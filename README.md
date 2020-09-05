@@ -1,0 +1,1 @@
+# shorting-method-in-python
